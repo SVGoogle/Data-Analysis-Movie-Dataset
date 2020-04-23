@@ -1,2 +1,2 @@
-# TmDB-data-analysis-Udacity
-This is an example project of an Exploratory Data Analysis of a movie dataset.
+# Exploratory data analysis of a movie dataset
+This is an example code that investigates charachteristics of high revenue movies.
